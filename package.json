@@ -1,0 +1,21 @@
+{
+  "name": "inline-ng2-resources",
+  "version": "1.0.0",
+  "description": "Utility to inline angular2 resources to compiled (by ngc) component files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inline",
+    "angular2",
+    "ng2",
+    "template",
+    "style",
+    "resource",
+    "ngc",
+    "compile-cli"
+  ],
+  "author": "Harun Urhan (copied from angular/material2)",
+  "license": "MIT"
+}

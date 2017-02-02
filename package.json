@@ -1,7 +1,11 @@
 {
   "name": "inline-ng2-resources",
-  "version": "1.0.0",
-  "description": "Utility to inline angular2 resources to compiled (by ngc) component files.",
+  "version": "1.1.0",
+  "description": "Utility to inline angular2 resources to component files (ts or js).",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harunurhan/inline-ng2-resources"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
